@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @cyber2048
-- 👀 I’m interested in learning code
-- 🌱 I’m currently learning React.JS
+- 👀 Learning code
+- 🌱 I’m currently learning React.JS, Node.js
 - 💞️ I’m looking to collaborate on a creative project linked to card games
-- 📫 How to reach me ...
+- 📫 How to reach me: "menifest about a good listner"
 - 😄 Pronouns: he\him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: { learn -> un-learn -> re-learn }
 
 <!---
 cyber2048/cyber2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
