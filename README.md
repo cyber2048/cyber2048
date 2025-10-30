@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyber2048
 - 👀 Learning code
-- 🌱 I’m currently learning React.JS, Node.js
+- 🌱 I’m currently learning React.JS, Node.js... Basically MERN stack
 - 💞️ I’m looking to collaborate on a creative project linked to card games
 - 📫 How to reach me: "menifest about a good listner"
 - 😄 Pronouns: he\him
