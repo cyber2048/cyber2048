@@ -28,7 +28,7 @@ Extras: JWT Auth, Socket.io (real-time chat), Vercel Deployment
 ✨ **Featured Projects**
 🎴 [**KanjiFlash**](#) — Flashcard app to learn Japanese Kanji with hints and emojis  
 🧑‍🎓 [**Student–Alumni Portal**](#) — Connects students and alumni through chat and events  
-🗂️ [**Customer–Employee API**](#) — REST API built using Spring Boot + MySQL  
+🗂️ [**KanjiTab**](#) — Chrome extension that gives fresh kanji symbol on opening new tab  
 
 ---
 
@@ -41,9 +41,4 @@ I value clarity over complexity, collaboration over competition, and enjoy turni
 📫 **Let’s Connect**
 [🌐 Portfolio](https://portfoliobywaseem.vercel.app)  
 [💼 LinkedIn](www.linkedin.com/in/waseemhasanwise)  
-[📧 Email](mailto:waseem.devmail@gmail.com)
-
----
-
-![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber2048&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber2048&layout=compact&theme=tokyonight)
+[📧 Email](mailto:waseemhasan999@gmail.com)
